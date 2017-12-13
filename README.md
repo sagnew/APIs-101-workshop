@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 To find a bunch of cool APIs in general, check out [ProgrammableWeb](https://www.programmableweb.com/)
 
-Here are some example REST APIs that are easy to work with, and some code to get started.
+You already know about [Twilio](https://www.twilio.com/docs/quickstart/python/sms), so here are some example REST APIs that are easy to work with, and some code to get started.
 
 ### NASA
 
